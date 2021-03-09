@@ -1,7 +1,8 @@
-package com.practice.mviarch
+package com.practice.mviarch.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.practice.mviarch.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
